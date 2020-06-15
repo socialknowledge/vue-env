@@ -1,14 +1,4 @@
-Add the SK repository to your composer repositories:
-
-  "repositories": [
-      {
-        "type": "vcs",
-        "url": "git@github.com:socialknowledge/vue-env.git"
-      },
-      {
-      ....
-      }
-    ],
+Install package:
 
     composer require socialknowledge/vue-env 
 

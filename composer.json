@@ -7,13 +7,13 @@
     "version": "1.00",
     "autoload": {
         "psr-4": {
-            "Socialknowledge\\Vueenv\\": "src"
+            "Socialknowledge\\VueEnv\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Socialknowledge\\Vueenv\\VueenvServiceProvider"
+                "Socialknowledge\\VueEnv\\VueEnvServiceProvider"
             ]
         }
     }
